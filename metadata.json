@@ -1,0 +1,6 @@
+{
+  "name": "Global Market Trading & Intelligence Platform",
+  "description": "Platform market intelligence, analisis teknikal & fundamental, live XAUUSD gold data, trading ideas, kalender ekonomi, dan tools trading terpadu untuk trader Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
